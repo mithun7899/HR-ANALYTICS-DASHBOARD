@@ -20,13 +20,6 @@ Average Experience
 
 📈 Visuals Included
 
-Visual	Type	Purpose
-Attrition Count by Department	Donut Chart	Shows which departments contribute most to attrition
-Attrition by Salary Slab	Clustered Bar Chart	Highlights whether compensation band relates to turnover
-Attrition by Job Role & Job Satisfaction	Pivot Table	Cross-tab breakdown for deeper drill-down analysis
-Age Group Distribution	Clustered Column Chart	Workforce age demographics
-Additional breakdowns	Pie Chart / Area Chart	Supplementary trend and composition views
-Filters	Slicer	Lets users filter the report interactively
 <img width="924" height="169" alt="image" src="https://github.com/user-attachments/assets/8338e1d2-9f10-47c5-9aca-d5f5719b2901" />
 
 
